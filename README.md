@@ -13,14 +13,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>     
 </div>
 
-
-
-
 ##
 <div align="center">
   <a href="https://github.com/becadev">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becadev&layout=compact&langs_count=7&theme=dark"/>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=becadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becadev&layout=compact&langs_count=7&theme=dark&bg_color=0c1117&border_color=0c1117"/>
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=becadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0c1117&border_color=0c1117"/>
+  </a>
 </div>
-
-
